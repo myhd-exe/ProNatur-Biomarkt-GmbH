@@ -1,6 +1,6 @@
 ﻿namespace ProNatur_Biomarkt_GmbH
 {
-    partial class Rechnungen
+    partial class BillsScreen
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Rechnungen));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BillsScreen));
             this.textBoxInvoiceNo = new System.Windows.Forms.TextBox();
             this.lblInvoiceNo = new System.Windows.Forms.Label();
             this.textBoxName = new System.Windows.Forms.TextBox();
@@ -46,7 +46,7 @@
             this.textBoxFirstname = new System.Windows.Forms.TextBox();
             this.lblFirstname = new System.Windows.Forms.Label();
             this.btnBillsDelete = new System.Windows.Forms.Button();
-            this.btnProductBillsClear = new System.Windows.Forms.Button();
+            this.btnBillsClear = new System.Windows.Forms.Button();
             this.btnBillsEdit = new System.Windows.Forms.Button();
             this.btnBillsSave = new System.Windows.Forms.Button();
             this.DVGBills = new System.Windows.Forms.DataGridView();
@@ -60,6 +60,7 @@
             this.textBoxInvoiceNo.ForeColor = System.Drawing.Color.White;
             this.textBoxInvoiceNo.Location = new System.Drawing.Point(124, 22);
             this.textBoxInvoiceNo.Name = "textBoxInvoiceNo";
+            this.textBoxInvoiceNo.ReadOnly = true;
             this.textBoxInvoiceNo.Size = new System.Drawing.Size(159, 20);
             this.textBoxInvoiceNo.TabIndex = 3;
             // 
@@ -218,18 +219,20 @@
             this.btnBillsDelete.TabIndex = 23;
             this.btnBillsDelete.Text = "Löschen";
             this.btnBillsDelete.UseVisualStyleBackColor = false;
+            this.btnBillsDelete.Click += new System.EventHandler(this.btnBillsDelete_Click);
             // 
-            // btnProductBillsClear
+            // btnBillsClear
             // 
-            this.btnProductBillsClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
-            this.btnProductBillsClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnProductBillsClear.ForeColor = System.Drawing.Color.White;
-            this.btnProductBillsClear.Location = new System.Drawing.Point(688, 76);
-            this.btnProductBillsClear.Name = "btnProductBillsClear";
-            this.btnProductBillsClear.Size = new System.Drawing.Size(120, 23);
-            this.btnProductBillsClear.TabIndex = 22;
-            this.btnProductBillsClear.Text = "Felder Leeren";
-            this.btnProductBillsClear.UseVisualStyleBackColor = false;
+            this.btnBillsClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.btnBillsClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBillsClear.ForeColor = System.Drawing.Color.White;
+            this.btnBillsClear.Location = new System.Drawing.Point(688, 76);
+            this.btnBillsClear.Name = "btnBillsClear";
+            this.btnBillsClear.Size = new System.Drawing.Size(120, 23);
+            this.btnBillsClear.TabIndex = 22;
+            this.btnBillsClear.Text = "Felder Leeren";
+            this.btnBillsClear.UseVisualStyleBackColor = false;
+            this.btnBillsClear.Click += new System.EventHandler(this.btnBillsClear_Click);
             // 
             // btnBillsEdit
             // 
@@ -242,6 +245,7 @@
             this.btnBillsEdit.TabIndex = 21;
             this.btnBillsEdit.Text = "Bearbeiten";
             this.btnBillsEdit.UseVisualStyleBackColor = false;
+            this.btnBillsEdit.Click += new System.EventHandler(this.btnBillsEdit_Click);
             // 
             // btnBillsSave
             // 
@@ -254,6 +258,7 @@
             this.btnBillsSave.TabIndex = 20;
             this.btnBillsSave.Text = "Speichern";
             this.btnBillsSave.UseVisualStyleBackColor = false;
+            this.btnBillsSave.Click += new System.EventHandler(this.btnBillsSave_Click);
             // 
             // DVGBills
             // 
@@ -292,8 +297,9 @@
             this.DVGBills.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DVGBills.Size = new System.Drawing.Size(810, 315);
             this.DVGBills.TabIndex = 24;
+            this.DVGBills.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DVGBills_CellContentClick);
             // 
-            // Rechnungen
+            // BillsScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -302,7 +308,7 @@
             this.ClientSize = new System.Drawing.Size(834, 461);
             this.Controls.Add(this.DVGBills);
             this.Controls.Add(this.btnBillsDelete);
-            this.Controls.Add(this.btnProductBillsClear);
+            this.Controls.Add(this.btnBillsClear);
             this.Controls.Add(this.btnBillsEdit);
             this.Controls.Add(this.btnBillsSave);
             this.Controls.Add(this.textBoxAmount);
@@ -321,7 +327,7 @@
             this.Controls.Add(this.lblInvoiceNo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
-            this.Name = "Rechnungen";
+            this.Name = "BillsScreen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Rechnungen";
             ((System.ComponentModel.ISupportInitialize)(this.DVGBills)).EndInit();
@@ -347,7 +353,7 @@
         private System.Windows.Forms.TextBox textBoxFirstname;
         private System.Windows.Forms.Label lblFirstname;
         private System.Windows.Forms.Button btnBillsDelete;
-        private System.Windows.Forms.Button btnProductBillsClear;
+        private System.Windows.Forms.Button btnBillsClear;
         private System.Windows.Forms.Button btnBillsEdit;
         private System.Windows.Forms.Button btnBillsSave;
         private System.Windows.Forms.DataGridView DVGBills;

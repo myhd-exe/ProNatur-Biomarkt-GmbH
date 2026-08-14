@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\productsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:productsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\mainmenuscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:mainmenuscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\mainmenuscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:mainmenuscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\billsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:billsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|c:\\users\\basti\\dropbox\\repos\\pronatur-biomarkt-gmbh\\billsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:billsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:loadingscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\productsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95AD5D6A-D602-4B25-BA65-B31193E666CD}|ProNatur-Biomarkt-GmbH.csproj|solutionrelative:productsscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LoadingScreen.cs",
               "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\LoadingScreen.cs",
               "RelativeDocumentMoniker": "LoadingScreen.cs",
               "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\LoadingScreen.cs",
               "RelativeToolTip": "LoadingScreen.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-11T11:15:00.765Z",
               "IsPinned": true,
@@ -44,10 +72,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -56,15 +80,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoadingScreen.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\LoadingScreen.cs",
-              "RelativeDocumentMoniker": "LoadingScreen.cs",
-              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\LoadingScreen.cs [Entwurf]",
-              "RelativeToolTip": "LoadingScreen.cs [Entwurf]",
+              "DocumentIndex": 6,
+              "Title": "BillsScreen.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\BillsScreen.cs",
+              "RelativeDocumentMoniker": "BillsScreen.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\BillsScreen.cs [Entwurf]",
+              "RelativeToolTip": "BillsScreen.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T10:49:29.67Z",
+              "WhenOpened": "2026-08-14T18:57:59.229Z",
               "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillsScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\BillsScreen.cs",
+              "RelativeDocumentMoniker": "BillsScreen.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\BillsScreen.cs",
+              "RelativeToolTip": "BillsScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T18:57:54.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuScreen.resx",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.resx",
+              "RelativeDocumentMoniker": "MainMenuScreen.resx",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.resx",
+              "RelativeToolTip": "MainMenuScreen.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-14T18:57:11.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.Designer.cs",
+              "RelativeDocumentMoniker": "MainMenuScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.Designer.cs",
+              "RelativeToolTip": "MainMenuScreen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T18:57:11.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,10 +136,60 @@
               "RelativeDocumentMoniker": "LoadingScreen.Designer.cs",
               "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\LoadingScreen.Designer.cs",
               "RelativeToolTip": "LoadingScreen.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T11:41:16.944Z",
+              "WhenOpened": "2026-08-14T16:06:31.524Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\ProductsScreen.cs",
+              "RelativeDocumentMoniker": "ProductsScreen.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\ProductsScreen.cs",
+              "RelativeToolTip": "ProductsScreen.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv2YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T10:25:46.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.cs",
+              "RelativeDocumentMoniker": "MainMenuScreen.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\MainMenuScreen.cs",
+              "RelativeToolTip": "MainMenuScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:14:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsScreen.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\ProductsScreen.cs",
+              "RelativeDocumentMoniker": "ProductsScreen.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\ProductsScreen.cs [Entwurf]",
+              "RelativeToolTip": "ProductsScreen.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:14:08.883Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Basti\\Dropbox\\repos\\ProNatur-Biomarkt-GmbH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:02:35.787Z"
             }
           ]
         }
